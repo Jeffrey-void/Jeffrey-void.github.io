@@ -10,11 +10,6 @@ portfolio/
 ├── style.css           # 스타일시트 (디자인)
 ├── script.js           # 상호작용 JavaScript (카드 클릭, 모달)
 ├── projects.js         # 프로젝트 데이터
-├── images/             # 프로젝트 스크린샷 폴더
-│   ├── project2.png    # 2회차 앱 스크린샷
-│   ├── project3.png    # 3회차 앱 스크린샷
-│   ├── project4.png    # 4회차 앱 스크린샷
-│   └── project5.png    # 5회차 앱 스크린샷
 └── README.md           # 이 파일
 ```
 
@@ -41,18 +36,12 @@ portfolio/
 - 각 프로젝트의 설명, 기능, 배운 점 등을 수정
 - 새 프로젝트 추가 시 배열에 객체 추가
 
-### 스크린샷 추가
-1. `images/` 폴더에 프로젝트 스크린샷 저장
-2. 파일명: `project2.png`, `project3.png`, `project4.png`, `project5.png`
-3. PNG 형식 추천 (GIF, JPG도 가능)
-
 ### 디자인 변경
 `style.css`에서 색상, 폰트, 간격 등을 수정할 수 있습니다.
 
 ## 📋 확인 사항
 
 - [ ] 모든 프로젝트 링크가 정상 작동하는지 확인
-- [ ] 스크린샷 4장을 `images/` 폴더에 저장
 - [ ] `projects.js`의 모든 프로젝트 정보가 최신인지 확인
 - [ ] 모바일에서도 화면이 잘 보이는지 테스트
 
