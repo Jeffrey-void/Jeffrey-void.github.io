@@ -49,13 +49,6 @@ portfolio/
 ### 디자인 변경
 `style.css`에서 색상, 폰트, 간격 등을 수정할 수 있습니다.
 
-## 🌐 GitHub Pages로 배포하기
-
-1. GitHub에 `portfolio` 저장소 생성
-2. 모든 파일 업로드
-3. Settings → Pages → 'main' 브랜치 선택
-4. 배포 완료! 주소: `https://jeffrey-void.github.io/portfolio/`
-
 ## 📋 확인 사항
 
 - [ ] 모든 프로젝트 링크가 정상 작동하는지 확인
